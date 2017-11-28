@@ -24,3 +24,4 @@
     "template": "./node_modules/minami"
   }
 }
+client.login(process.env.BOT_TOKEN);
